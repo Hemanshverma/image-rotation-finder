@@ -1,4 +1,4 @@
-# image-rotation-finder
+# Image-Rotation-Finder
 
 This repo contains a single .pynb file with a function named calculate image. Which uses OpenCV with SIFT to find the key points in both the images. Then uses their image description and key points to find the matches between 2 images. It then takes the matches and find some random matched coordinates into both the images and then uses those coordinates to find the new angle of image.
 
